@@ -31,6 +31,12 @@ This project provides two ways to extract text from PDF files:
     npm install
     ```
 
+4. Run OCR
+
+   ```bash
+    npm start
+    ```
+
 ## Usage
 
 You can run the tool in two ways:
