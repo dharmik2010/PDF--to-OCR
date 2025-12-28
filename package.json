@@ -1,0 +1,22 @@
+{
+  "name": "pdf-ocr-tool",
+  "version": "1.0.0",
+  "description": "A tool to extract text from PDFs using OCR",
+  "main": "index.js",
+  "scripts": {
+    "start": "start index.html"
+  },
+  "keywords": [
+    "ocr",
+    "pdf",
+    "javascript",
+    "tesseract"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "pdfjs-dist": "^3.11.174",
+    "tesseract.js": "^5.0.3"
+  }
+}
